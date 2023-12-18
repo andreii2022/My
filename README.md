@@ -1,4 +1,4 @@
-# My
+# "Code Architect Crafting Tomorrow's Solutions"
 ### <div align="center"> 🚀Hello everyone, I'm Andrey, I'm a frontend developer</div>  
   
 
